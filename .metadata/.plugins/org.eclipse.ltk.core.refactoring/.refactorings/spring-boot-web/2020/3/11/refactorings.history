@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ver.html&apos; to &apos;variables&apos;&#x0A;- Original project: &apos;spring-boot-web&apos;&#x0A;- Destination element: &apos;variables&apos;&#x0A;- Original element: &apos;ver.html&apos;" description="Copy file" element1="src/main/resources/templates/params/ver.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1583689662370" target="/spring-boot-web/src/main/resources/templates/variables" units="0" version="1.0"/>
+</session>
